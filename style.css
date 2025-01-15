@@ -1,0 +1,66 @@
+body{
+    font-family:Arial;
+}
+
+
+.border{
+    border: solid;
+}
+table ,th, td{
+    border: 2px solid black;
+  border-collapse: collapse;
+  font-family:Arial;
+}
+
+.kuning{
+    background-color: #faffc8;
+    width: 200px;
+   
+}
+
+.hari{
+    width: 50px;
+    background-color: #faffc8;
+   
+}
+
+.senin{
+    height: 80px;
+    font-size: 13px ;
+    font-weight: bold;
+   
+    background-color: #eeeeee;
+}
+
+.hari2{
+    width: 50px;
+    background-color: #ffcce2;
+}
+
+.merah{
+    width: 50px ;
+    background-color: #ffcce2;
+}
+.hari3{
+    width: 50px;
+    background-color: #ccf2ff;
+}
+
+.biru{
+    width: 50px ;
+    background-color: #ccf2ff;
+}
+
+
+.guru{
+    font-size: 14px;
+    font-weight: 100;
+}
+
+.judul{
+    border: solid 1px ;
+    
+}
+
+
+
